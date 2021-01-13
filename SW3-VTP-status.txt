@@ -1,0 +1,17 @@
+SW3#sh vtp status
+VTP Version capable             : 1 to 3
+VTP version running             : 2
+VTP Domain Name                 : ENCOR
+VTP Pruning Mode                : Enabled
+VTP Traps Generation            : Disabled
+Device ID                       : aabb.cc80.0300
+Configuration last modified by 0.0.0.0 at 1-13-21 15:00:33
+
+Feature VLAN:
+--------------
+VTP Operating Mode                : Client
+Maximum VLANs supported locally   : 1005
+Number of existing VLANs          : 8
+Configuration Revision            : 6
+MD5 digest                        : 0xFD 0x5A 0x84 0x87 0xF6 0xE6 0x81 0xBE
+                                    0xD6 0x65 0x66 0xCD 0x7C 0x2A 0x71 0x75

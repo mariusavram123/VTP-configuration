@@ -1,0 +1,5 @@
+vtp mode server
+vtp domain ENCOR
+vtp password S3cret
+vtp pruning
+vtp version 2
